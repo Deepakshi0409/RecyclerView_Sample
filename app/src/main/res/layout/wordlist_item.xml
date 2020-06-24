@@ -9,5 +9,10 @@ android:padding="6dp">
     android:layout_height="wrap_content"
     android:textSize="24sp"
     android:id="@+id/word"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:id="@+id/words"/>
 
 </LinearLayout>
